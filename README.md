@@ -7,4 +7,6 @@
 
 ![Valgrind](https://github.com/99002620/cpp-mini-project/workflows/Valgrind/badge.svg)
 
+![Unit testing](https://github.com/99002620/cpp-mini-project/workflows/Unit%20testing/badge.svg)
+
 
